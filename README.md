@@ -28,37 +28,37 @@ Input CSV dataset -> Identify data issues and document it (ignore the methods to
 
 ## Business questions to build visualization.
 
-# (1)  Service Requests Over Time:
+### (1)  Service Requests Over Time:
 • What is the overall trend in Service Requests over the years 2018-2021?
 • How have Service Requests changed on a monthly basis?
 
  
 
-# (2) Volume of service requests received from different sources:
+### (2) Volume of service requests received from different sources:
 
 • What is the overall trend in Service Requests over Sources?
 
  
 
-# (3) Volume of service requests received by Department:
+### (3) Volume of service requests received by Department:
 
 • What is the overall trend in Service Requests received by Departments?
 
  
 
-# (4) Top 10 Performance Metrics (Response Time) per CATEGORY and Type of Request:
+### (4) Top 10 Performance Metrics (Response Time) per CATEGORY and Type of Request:
 
 • What are the top 10 cases whose response time was fastest? Categorize it with Category1 and Type of Request.
 
  
 
-# (5) Geographical Visualization:
+### (5) Geographical Visualization:
 
 • What are the Top 10 areas where most number of request were raised?
 
  
 
-# (6) Departmental Workload Comparison:
+### (6) Departmental Workload Comparison:
 
 • How does the workload vary among different departments and work groups? Create a visual representation to highlight the distribution.
 
@@ -66,19 +66,19 @@ Input CSV dataset -> Identify data issues and document it (ignore the methods to
 
  
 
-# (7) Response Time Analysis:
+### (7) Response Time Analysis:
 
 • Visualize the distribution of response times for each department. Are there any outliers or patterns in response times?
 
  
 
-# (8) Service Request Status Composition:
+### (8) Service Request Status Composition:
 
 • Create a visualization to show the composition of service request statuses (open, closed, in progress). How has this composition changed over the years 2018-2021?
 
  
 
-# (9) Time to Closure Analysis:
+### (9) Time to Closure Analysis:
 
 • Visualize the average days to close service requests for each category1. Are there categories with consistently longer closure times?
 
@@ -86,7 +86,7 @@ Input CSV dataset -> Identify data issues and document it (ignore the methods to
 
  
 
-# (10) Workload Efficiency:
+### (10) Workload Efficiency:
 
 • Create a visualization to show the relationship between workload (number of service requests) and efficiency (days to close) for each department?
 
