@@ -1,6 +1,7 @@
 # Call_Center_Service_Request_Analysis
 
-![image](https://github.com/user-attachments/assets/c91dd077-32ce-420b-a0c9-4127ef5f49fa)
+<img width="1016" alt="Screenshot 2024-07-14 at 5 47 30 PM" src="https://github.com/user-attachments/assets/6f26c376-bab7-4c6a-8bd9-44ad95283ab8">
+
 
 
 ## Scope of work
