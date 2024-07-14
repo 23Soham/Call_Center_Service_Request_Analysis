@@ -1,5 +1,8 @@
 # Call_Center_Service_Request_Analysis
 
+![image](https://github.com/user-attachments/assets/c91dd077-32ce-420b-a0c9-4127ef5f49fa)
+
+
 ## Scope of work
 
 1. Creating visualizations using Tableau and Power BI based on the business requirements provided. 
